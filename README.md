@@ -1,6 +1,7 @@
-##  Óla, bem vindo ao perfil da dev mais calma do mundo! 👋
+##  Óla, bem vindo ao meu perfil! 👋
 
-- Estudante de Banco de Dados pela universidade Estácio de Sá
+- Estudante de Banco de Dados pela universidade Estácio de Sá 👩‍💻💹📚
+- Data Analyst 👩‍💻📚
 - Programadora Python (Sim! eu falo a linguagem das cobras 🐍🐍 rs )
 - Neste perfil você encontrará, evolução, determinação, realização de um sonho, disciplina e uma dev que ama aprender!!!
 
